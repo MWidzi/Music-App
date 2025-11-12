@@ -11,3 +11,14 @@ I might update it in the future if I want to.
 - Switching songs, pausing and playing with some clean animations
 - Playlist showing songs in album and the currently playing song, also allows you to switch songs
 - Cool dynamically generated gradients in the genres section
+
+## Setup:
+in a terminal navigate to the root directory and run 
+```sh
+npm install http_server
+```
+
+once it downloads run 
+```sh
+http-server
+```
