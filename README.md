@@ -1,6 +1,7 @@
 # Unnamed Music App
 ### WARNING: this project isn't really fully complete
 It was made mostly for fun and it has glaring flaws like... the music app actually not being able to play music.
+Also isn't really responsive, you gotta fiddle around a bit with the scale for it to display properly on higher resolutions
 I might update it in the future if I want to
 
 ## Current Features: 
