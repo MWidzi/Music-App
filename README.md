@@ -22,3 +22,5 @@ once it downloads run
 ```sh
 http-server
 ```
+
+the website will now be available on localhost at the port it shows you, usually http://127.0.0.1:8080
