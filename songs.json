@@ -1,0 +1,166 @@
+[
+    {
+        "albumName" : "future core",
+        "albumCover" : "future core.jpeg",
+        "songs" : 
+        [
+            {
+                "songID" : 0,
+                "title" : "LEMON MELON COOKIE",
+                "artist": "TAK",
+                "cover" : "lemon melon.jpg",
+                "length": 152,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 1,
+                "title": "Madaminu Sekai",
+                "artist": "lapix",
+                "cover": "madaminuSekai.jpg",
+                "length": 178,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 2,
+                "title": "Accelerate!!",
+                "artist": "jisai",
+                "cover": "accelerate!!.jpg",
+                "length": 237,
+                "genre" : "speedcore"
+            },
+            {
+                "songID": 3,
+                "title": "Constant Moderato",
+                "artist": "jisai",
+                "cover": "constant moderato.png",
+                "length": 158,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 4,
+                "title": "Usagi Flap",
+                "artist": "jisai",
+                "cover": "usagi flap.png",
+                "length": 124,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 5,
+                "title": "ヘッチャカ",
+                "artist": "さたぱんP",
+                "cover": "hecchaka.png",
+                "length": 223,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 6,
+                "title": "Sakura in Tokyo",
+                "artist": "Gaiyu",
+                "cover": "sakura in tokyo.png",
+                "length": 172,
+                "genre" : "hard core"
+            },
+            {
+                "songID": 7,
+                "title": "Nyan Nyan Dive",
+                "artist": "Alice room",
+                "cover": "nyan nyan dive.png",
+                "length": 146,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 8,
+                "title": "Routine work:(",
+                "artist": "Kaichi Naito",
+                "cover": "routine work.png",
+                "length": 116,
+                "genre" : "future bass"
+            }
+        ]
+    },
+    {
+        "albumName" : "boss songs",
+        "albumCover" : "boss songs.jpeg",
+        "songs" : 
+        [
+            {
+                "songID": 9,
+                "title": "Flandere・S",
+                "artist": "beatMARIO",
+                "cover": "flandere.png",
+                "length": 123,
+                "genre" : "hard core"
+            },
+            {
+                "songID": 10,
+                "title": "Clinozoisite",
+                "artist": "Ludicin",
+                "cover": "clinozoiste.png",
+                "length": 343,
+                "genre" : "hard core"
+            },
+            {
+                "songID": 11,
+                "title": "I Wanna",
+                "artist": "Shimura Mashiro",
+                "cover": "i wanna.png",
+                "length": 235,
+                "genre" : "hard core"
+            }
+        ]
+    },
+    {
+        "albumName" : "Beautiful Sounds",
+        "albumCover" : "beautiful sounds.jpeg",
+        "songs" : 
+        [
+            {
+                "songID": 12,
+                "title": "Wonder",
+                "artist": "tayori",
+                "cover": "wonder.png",
+                "length": 226,
+                "genre" : "future bass"
+            },
+            {
+                "songID": 13,
+                "title": "Shoujo Rei",
+                "artist": "Mikito P",
+                "cover": "shoujo rei.png",
+                "length": 289,
+                "genre" : "vocaloid"
+            }
+        ]
+    },
+    {
+        "albumName" : "Project Sekai",
+        "albumCover" : "proseka.webp",
+        "songs" : 
+        [
+            {
+                "songID": 14,
+                "title": "ARQETYPE",
+                "artist": "Sohbana",
+                "cover": "ARQETYPE.webp",
+                "length": 145,
+                "genre" : "vocaloid"
+            },
+            {
+                "songID": 14,
+                "title": "Magic Number",
+                "artist": "Itou Kent",
+                "cover": "Magic_number.webp",
+                "length": 204,
+                "genre" : "vocaloid"
+            },
+            {
+                "songID": 15,
+                "title": "MGPD",
+                "artist": "Cosmo@BousouP",
+                "cover": "MACHINEGUN_POEM_DOLL.webp",
+                "length": 140,
+                "genre" : "vocaloid"
+            }
+        ]
+    }
+]
