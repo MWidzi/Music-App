@@ -4,6 +4,8 @@ It was made mostly for fun and it has glaring flaws like... the music app actual
 Also isn't really responsive, you gotta fiddle around a bit with the scale for it to display properly on higher resolutions. 
 I might update it in the future if I want to.
 
+![screenshot showcasing the site](./screenshots/showcase.png)
+
 ## Current Features: 
 - Songs, albums and 'genre mixes' drawn dynamically from a json file
 - Searching filters results based on album/genre name
